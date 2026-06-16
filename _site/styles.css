@@ -1,0 +1,36 @@
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.card {
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+
+    transition:
+        transform 0.3s ease,
+        box-shadow 0.3s ease;
+}
+
+.card img:hover {
+    transform: scale(1.04);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+}
+
+.title {
+    margin-top: 18px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.artist {
+    color: #666;
+    font-style: italic;
+}
