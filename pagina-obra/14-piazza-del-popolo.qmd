@@ -1,0 +1,42 @@
+# Vista da Piazza del Popolo
+
+Autor: Giovanni Battista Piranesi
+
+![](../imagens/14-piazza-del-popolo.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1750
+
+**Técnica:** gravura (processo de impressão) em papel (produto de fibra)
+
+**Localização:** William H. Schab Gallery, New York; Arthur Ross Foundation, New York, to 2012; Yale University Art Gallery, New Haven, Conn.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Até mesmo quando tínhamos de ir pelas ruas que ficavam atrás do templo e de onde não o avistávamos, tudo parecia ordenado em relação ao campanário, que surgia aqui e ali entre as casas, talvez ainda mais impressionante ao assomar assim sem a igreja. É verdade que existem vários outros que são muito mais belos vistos dessa maneira, e guardo na lembrança vinhetas de torres acima dos telhados, com outra feição artística que não as que compunham as tristes ruas de Combray. Nunca hei de esquecer, em uma curiosa cidade da Normandia próxima a Balbec, dois encantadores palácios do século xviii, que por muitos motivos me são caros e veneráveis, e entre os quais, quando olhamos do belo jardim que desce das escadarias até o rio, se eleva a agulha gótica de uma igreja por eles oculta e que parece terminar e coroar suas fachadas, mas de um modo tão diferente, tão precioso, tão frisado, tão róseo, tão polido, que bem se vê que não faz parte delas, como não faz parte de dois belos seixos unidos, entre os quais está presa na praia a ponta purpurina e denticulada de alguma concha afuselada em agulha e rebrilhante de esmalte. Em Paris também, em um dos bairros mais feios da cidade, sei de uma janela de onde se avista, após um primeiro, um segundo e até um terceiro plano constituídos pelos telhados amontoados de várias ruas, uma torre violácea, às vezes avermelhada, às vezes também, nas melhores “provas” que lhe tira a atmosfera, de um negro decantado de cinzas, a qual não é mais que o domo de Santo Agostinho e que dá àquela vista de Paris o caráter de certas vistas de Roma, por Piranesi.
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+(Comentário)
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](15-amiens-quatrefeuilles.qmd)

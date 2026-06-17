@@ -7,6 +7,21 @@ As obras abaixo são mencionadas por Marcel Proust.
 <div class="gallery">
 
 <div class="card">
+<a href="pagina-obra/14-piazza-del-popolo.html">
+<img src="imagens/14-piazza-del-popolo.jpg">
+</a>
+
+<div class="title">
+Vista da Piazza del Popolo
+</div>
+
+<div class="artist">
+Giovanni Battista Piranesi
+</div>
+
+</div>
+
+<div class="card">
 <a href="pagina-obra/15-amiens-quatrefeuilles.html">
 <img src="imagens/15-amiens-quatrefeuilles.jpg">
 </a>
