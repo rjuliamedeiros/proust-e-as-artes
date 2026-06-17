@@ -1,22 +1,22 @@
 # Proust e as artes
 
-## As pinturas em *No Caminho de Swann*
+## As obras em *No Caminho de Swann*
 
 As obras abaixo são mencionadas por Marcel Proust.
 
 <div class="gallery">
 
 <div class="card">
-<a href="pagina-obra/33-vista-de-delft.html">
-<img src="imagens/33-vista-de-delft.jpg">
+<a href="pagina-obra/15-amiens-quatrefeuilles.html">
+<img src="imagens/15-amiens-quatrefeuilles.jpg">
 </a>
 
 <div class="title">
-Vista de Delft
+Amiens – Quatrefeuilles de la façade
 </div>
 
 <div class="artist">
-Johannes Vermeer
+Escultores da Catedral de Amiens
 </div>
 
 </div>
@@ -32,6 +32,21 @@ Caridade
 
 <div class="artist">
 Giotto
+</div>
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/33-vista-de-delft.html">
+<img src="imagens/33-vista-de-delft.jpg">
+</a>
+
+<div class="title">
+Vista de Delft
+</div>
+
+<div class="artist">
+Johannes Vermeer
 </div>
 
 </div>

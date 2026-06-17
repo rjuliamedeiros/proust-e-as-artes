@@ -1,0 +1,44 @@
+# Amiens – Quatrefeuilles de la façade
+
+Autor: Escultores da Catedral de Amiens
+
+![](../imagens/15-amiens-quatrefeuilles.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** século XIII
+
+**Técnica:** Escultura em pedra
+
+**Localização:** Catedral de Amiens, França
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Pois, ao fundo permanente de ovos, de costeletas, de batatas, de compotas, de biscoitos, que nem sequer nos anunciava mais, Françoise acrescentava — de acordo com os trabalhos dos campos e pomares, o fruto da pesca, as surpresas do comércio, as amabilidades dos vizinhos e seu próprio gênio inventivo, e de tal forma que nosso cardápio, como essas quatro-folhas que esculpiam no século XIII à entrada das catedrais, refletia de certo modo o ritmo das estações e os episódios da vida — um rodovalho, porque a peixeira lhe garantira que estava fresco, um peru, porque descobrira um esplêndido no mercado de Roussainville-le-Pin, alcachofras com tutano, porque ainda não as preparara dessa maneira, uma perna de carneiro assada, porque o ar livre dá apetite e teria tempo de “baixar” dentro de sete horas, espinafres para variar, damascos, porque constituíam ainda uma raridade, groselhas, porque dali a quinze dias não haveria mais, framboesas, porque o sr. Swann as trouxera expressamente, cerejas, por serem as primeiras que dava a cerejeira do quintal depois de dois anos de esterilidade, o requeijão de que eu tanto gostava outrora, um doce de amêndoas, porque o encomendara na véspera, um brioche, porque era nossa vez de “oferecê-lo”.
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+A comparação entre o cardápio de Françoise e os quatrefeuilles da fachada da Catedral de Amiens é uma das inúmeras aproximações que Proust estabelece entre a vida cotidiana e a arte medieval. Assim como os relevos esculpidos nas catedrais góticas condensam cenas, símbolos e ritmos da existência humana, também o menu cuidadosamente elaborado por Françoise reflete a sucessão das estações, a generosidade dos vizinhos e os acontecimentos da vida doméstica.
+
+Essa imagem revela a profunda admiração de Proust pela arte gótica e, em particular, pela Catedral de Amiens, cuja interpretação foi mediada pela obra de John Ruskin. A catedral surge, assim, como um modelo de organização do mundo, no qual os detalhes mais humildes da existência são elevados à dignidade da arte.
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](16-caridade.qmd)
