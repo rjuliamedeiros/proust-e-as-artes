@@ -1,0 +1,39 @@
+# A Missa de Santo Elói
+
+
+
+![](../imagens/12-missa-de-santo-eloi.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** século XVI
+
+**Localização:** The National Gallery, London
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Tudo aquilo e mais ainda os objetos preciosos, oriundos de personagens que para mim eram quase personagens de lenda (a cruz de ouro trabalhada, dizia-se, por santo Elói e doada por Dagoberto, o túmulo dos filhos de Luís, o Germânico, de pórfiro e de cobre esmaltado) e por causa das quais eu avançava pela igreja, quando nos dirigíamos a nossos lugares, como por um vale visitado pelas fadas, onde o campônio se maravilha de ver em um rochedo, em uma árvore, em um pântano o rastro palpável de sua passagem sobrenatural; tudo aquilo fazia da igreja, para mim, alguma coisa de inteiramente diverso do resto da cidade: um edifício que ocupava, por assim dizer, um espaço de quatro dimensões — a quarta era a do Tempo [...].
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](13-basilica-saint-denis-tumulos.qmd)

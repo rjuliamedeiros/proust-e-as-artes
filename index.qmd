@@ -7,6 +7,18 @@ As obras abaixo são mencionadas por Marcel Proust.
 <div class="gallery">
 
 <div class="card">
+<a href="pagina-obra/12-missa-de-santo-eloi.html">
+<img src="imagens/12-missa-de-santo-eloi.jpg">
+</a>
+
+<div class="title">
+A Missa de Santo Elói
+</div>
+
+
+</div>
+
+<div class="card">
 <a href="pagina-obra/13-basilica-saint-denis-tumulos.html">
 <img src="imagens/13-basilica-saint-denis-tumulos.jpg">
 </a>
