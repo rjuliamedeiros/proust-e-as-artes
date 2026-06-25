@@ -7,6 +7,32 @@ As obras abaixo são mencionadas por Marcel Proust.
 <div class="gallery">
 
 <div class="card">
+<a href="pagina-obra/1a-o-milagre-de-teofilo-detalhe-da-fachada-de-notre-dame-de-paris.html">
+<img src="imagens/1a-o-milagre-de-teofilo-detalhe-da-fachada-de-notre-dame-de-paris.jpg">
+</a>
+
+<div class="title">
+O milagre de Teófilo
+</div>
+
+
+</div>
+
+
+<div class="card">
+<a href="pagina-obra/2-relevo-em-pedra-quatro-filhos-de-aymon.html">
+<img src="imagens/2-relevo-em-pedra-quatro-filhos-de-aymon.jpg">
+</a>
+
+<div class="title">
+Placa dos Quatro filhos de Aymon
+</div>
+
+
+</div>
+
+
+<div class="card">
 <a href="pagina-obra/4-a-catedral-de-chartres-corot.html">
 <img src="imagens/4-a-catedral-de-chartres-corot.jpg">
 </a>

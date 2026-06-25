@@ -1,0 +1,40 @@
+# Placa dos Quatro filhos de Aymon
+
+
+
+![](../imagens/2-relevo-em-pedra-quatro-filhos-de-aymon.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** século XVII
+
+**Localização:**  Rue de la Barre, Lille, França.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Esse código, a julgar pela repentina obstinação com que ela se negava a desempenhar certas incumbências que lhe dávamos, parecia ter previsto complexidades sociais e refinamentos mundanos de tal natureza que nada, no ambiente de Françoise e em sua vida de criada de aldeia, lhe poderia ter sugerido; e éramos obrigados a acreditar que havia nela um passado francês muito antigo, nobre e mal compreendido, como nessas cidades manufatureiras onde velhos palácios testemunham que houve outrora uma vida de corte, e onde os operários de uma fábrica de produtos químicos trabalham no meio de delicadas esculturas que representam o milagre de são Teófilo ou os quatro filhos de Aymon. 
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](4-a-catedral-de-chartres-corot.qmd)
