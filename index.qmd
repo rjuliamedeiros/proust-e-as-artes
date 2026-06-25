@@ -7,6 +7,35 @@ As obras abaixo são mencionadas por Marcel Proust.
 <div class="gallery">
 
 <div class="card">
+<a href="pagina-obra/8-ruinas-a-beira-de-um-lago.html">
+<img src="imagens/8-ruinas-a-beira-de-um-lago.jpg">
+</a>
+
+<div class="title">
+Ruínas à beira de um lago
+</div>
+
+<div class="artist">
+Lucas van Uden
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/10-tarot-grigonneur-allegorie-du-monde.html">
+<img src="imagens/10-tarot-grigonneur-allegorie-du-monde.jpg">
+</a>
+
+<div class="title">
+Tarot Carlos VI ou Grigonneur
+</div>
+
+
+</div>
+
+
+<div class="card">
 <a href="pagina-obra/11-coroacao-de-ester.html">
 <img src="imagens/11-coroacao-de-ester.jpg">
 </a>

@@ -1,0 +1,40 @@
+# Ruínas à beira de um lago 
+
+Autor: Lucas van Uden, baseado na obra original de Ticiano
+
+
+![](../imagens/8-ruinas-a-beira-de-um-lago.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** século XVII
+
+**Localização:** Galeria Nacional da Dinamarca.
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Cumpre dizer que os resultados dessa maneira de exercer a arte de dar presentes nem sempre foram dos mais brilhantes. A ideia que fiz de Veneza segundo um desenho de Ticiano que tinha por fundo a laguna era por certo muito menos exata do que a fornecida por simples fotografias. 
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](10-tarot-grigonneur-allegorie-du-monde.qmd)
