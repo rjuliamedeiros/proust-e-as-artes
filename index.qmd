@@ -7,6 +7,40 @@ As obras abaixo são mencionadas por Marcel Proust.
 <div class="gallery">
 
 <div class="card">
+<a href="pagina-obra/4-a-catedral-de-chartres-corot.html">
+<img src="imagens/4-a-catedral-de-chartres-corot.jpg">
+</a>
+
+<div class="title">
+A Catedral de Chartres
+</div>
+
+<div class="artist">
+Jean-Baptiste Camille Corot
+</div>
+
+
+</div>
+
+
+<div class="card">
+<a href="pagina-obra/5-interior-de-parque.html">
+<img src="imagens/5-interior-de-parque.jpg">
+</a>
+
+<div class="title">
+A Fonte
+</div>
+
+<div class="artist">
+Hubert Robert
+</div>
+
+
+</div>
+
+
+<div class="card">
 <a href="pagina-obra/6-vesuvio-em-erupcao.html">
 <img src="imagens/6-vesuvio-em-erupcao.jpg">
 </a>

@@ -1,0 +1,42 @@
+# A Catedral de Chartres
+
+Autor: Jean-Baptiste Camille Corot
+
+
+![](../imagens/4-a-catedral-de-chartres-corot.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1830
+
+**Localização:** Museu do Louvre, Departamento de Pinturas.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Gostaria que eu tivesse no quarto fotografias dos mais belos monumentos ou paisagens. Mas, no momento de fazer a compra, e embora a coisa representada tivesse um valor estético, achava ela que a vulgaridade, a utilidade, logo reassumiriam seu lugar, pelo processo mecânico de representação, a fotografia. Procurava então um subterfúgio, tentando, se não eliminar de todo a vulgaridade comercial, pelo menos atenuá-la, substituí-la o mais possível pelo que ainda fosse arte, introduzir-lhe como que várias “espessuras” de arte: em vez de fotografias da catedral de Chartres, das fontes de Saint-Cloud, do Vesúvio, informava-se com Swann se algum grande mestre não os havia pintado, e preferia dar-me fotografias da catedral de Chartres por Corot, das fontes de Saint-Cloud por Hubert Robert, do Vesúvio por Turner, o que constituía um grau de arte a mais.
+ 
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](5-interior-de-parque.qmd)
