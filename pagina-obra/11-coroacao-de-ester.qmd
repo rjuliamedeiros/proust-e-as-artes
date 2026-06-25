@@ -1,0 +1,39 @@
+# Tapeçaria da Coroação de Ester 
+
+
+
+![](../imagens/11-coroacao-de-ester.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** século XV
+
+**Localização:** Bourgogne-Franche-Comté ; Yonne; Sens ; cathédrale Saint-Étienne
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Duas tapeçarias de trama vertical representavam a coroação de Ester (a tradição emprestava a Assuero os traços de um rei de França e a Ester os de uma dama de Guermantes, de quem estava enamorado); suas cores se haviam fundido, acrescentando às figuras uma expressão, um relevo, uma iluminação peculiar: um pouco de cor-de-rosa flutuava nos lábios de Ester além do desenho de seu contorno, o amarelo de seu vestido se espalhava tão untuosamente, tão plenamente, que este adquiria uma espécie de consistência e se salientava vivamente por sobre a atmosfera recuada; e a verdura das árvores que permanecia viva na parte baixa do painel de seda e lá, mas que estava “passada” no alto, fazia destacarem-se em um tom mais pálido, acima dos troncos escuros, os altos ramos amarelecidos, dourados e como que meio apagados pela brusca e oblíqua iluminação de um sol invisível.
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](12-missa-de-santo-eloi.qmd)
