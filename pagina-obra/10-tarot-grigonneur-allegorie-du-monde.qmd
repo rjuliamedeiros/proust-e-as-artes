@@ -1,0 +1,39 @@
+# Tarot Carlos VI ou Grigonneur 
+
+Autor: atribuído à oficina de Apollonio di Giovanni e Marco del Buono
+
+
+![](../imagens/10-tarot-grigonneur-allegorie-du-monde.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** século XV
+
+**Localização:** Coleção da Biblioteca Nacional da França, Departamento de Gravuras e Fotografia.
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Havia um que era um alto compartimento dividido em uma centena de pequenos vitrais retangulares onde dominava o azul, como um grande jogo de cartas semelhante àqueles que deviam distrair o rei Carlos vi; [...]
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](11-coroacao-de-ester.qmd)
