@@ -1,0 +1,41 @@
+# A Última Ceia  
+
+Autor: Raphael Morghen, baseado na obra original de Leonardo da Vinci
+
+
+![](../imagens/7-a-ultima-ceia-morghen.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1800
+
+**Localização:** MET New York.
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Mas, se o fotógrafo era assim eliminado da representação da obra-prima ou da natureza e substituído por um grande artista, reassumia contudo seus direitos ao reproduzir aquela interpretação. E, tendo chegado ao último reduto da vulgaridade, minha avó ainda assim procurava afastá-la. Perguntava a Swann se a obra não fora gravada, preferindo, quando possível, gravuras antigas e que tivessem um interesse para além de si mesmas, por exemplo as que representam uma obra-prima em um estado em que não mais podemos vê-la hoje (como a gravura da Ceia de Leonardo, por Morghen, antes de sua deterioração).
+ 
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](8-ruinas-a-beira-de-um-lago.qmd)

@@ -7,6 +7,40 @@ As obras abaixo são mencionadas por Marcel Proust.
 <div class="gallery">
 
 <div class="card">
+<a href="pagina-obra/6-vesuvio-em-erupcao.html">
+<img src="imagens/6-vesuvio-em-erupcao.jpg">
+</a>
+
+<div class="title">
+Vesúvio em erupção
+</div>
+
+<div class="artist">
+Joseph Mallord William Turner
+</div>
+
+
+</div>
+
+
+<div class="card">
+<a href="pagina-obra/7-a-ultima-ceia-morghen.html">
+<img src="imagens/7-a-ultima-ceia-morghen.jpg">
+</a>
+
+<div class="title">
+A Última Ceia
+</div>
+
+<div class="artist">
+Raphael Morghen
+</div>
+
+
+</div>
+
+
+<div class="card">
 <a href="pagina-obra/8-ruinas-a-beira-de-um-lago.html">
 <img src="imagens/8-ruinas-a-beira-de-um-lago.jpg">
 </a>
