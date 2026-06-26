@@ -1,0 +1,42 @@
+# Ilusões Perdidas
+
+Autor: Charles Gleyre
+
+
+![](../imagens/27-ilusoes-perdidas.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1843
+
+**Técnica:** Óleo na tela
+
+**Localização:** The Walters Art Museum, Baltimore.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Às vezes pelo céu da tarde passava a lua branca como uma nuvem, furtiva, sem brilho, como uma atriz que ainda não está na hora de entrar em cena e que, da plateia, em toalete comum, olha um momento suas camaradas, apagando-se, indesejosa de chamar a atenção. Eu gostava de reencontrar sua imagem nos quadros e nos livros, mas essas obras de arte eram muito diferentes — pelo menos durante os primeiros anos, antes que Bloch acostumasse meus olhos e meus pensamentos a harmonias mais sutis — daquelas em que a lua hoje me pareceria mais bela, e que então não me diziam nada. Era, por exemplo, algum romance de Saintine, uma paisagem de Gleyre, em que ela recorta nitidamente sobre o céu uma foice de praia, dessas obras ingenuamente incompletas como eram minhas próprias impressões e que as irmãs de minha avó tanto se indignavam de ver-me apreciar.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+[Próxima obra →](28-procissao-na-praça-de-sao-marcos.qmd)

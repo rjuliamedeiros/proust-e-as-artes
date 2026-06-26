@@ -223,6 +223,41 @@ Inveja
 Giotto
 </div>
 
+<div class="card">
+<a href="pagina-obra/27-ilusoes-perdidas.html">
+<img src="imagens/27-ilusoes-perdidas.jpg">
+</a>
+
+<div class="title">
+Ilusões Perdidas
+</div>
+
+<div class="artist">
+Autor: Charles Gleyre
+</div>
+
+
+</div>
+
+
+
+<div class="card">
+<a href="pagina-obra/28-procissao-na-praça-de-sao-marcos.html">
+<img src="imagens/28-procissao-na-praça-de-sao-marcos.jpg">
+</a>
+
+<div class="title">
+Procissão na Praça de São Marcos
+</div>
+
+<div class="artist">
+Autor: Gentile Bellini
+</div>
+
+
+</div>
+
+
 
 </div>
 
