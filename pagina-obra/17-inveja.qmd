@@ -1,0 +1,42 @@
+# Inveja
+
+Autor: Giotto
+
+
+![](../imagens/17-inveja.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1306
+
+**Técnica:** Afresco
+
+**Localização:**  Capela Scrovegni (Arena), Pádua.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+A Inveja, essa, já tinha mais expressão de inveja. Mas também nesse afresco o símbolo ocupa tanto espaço e é representado como tão real, tão grossa é a serpente que silva nos lábios da Inveja, tão completamente lhe enche a boca escancarada que os músculos de seu rosto estão distendidos pelo esforço de contê-la, como os de uma criança a soprar um balão, e a atenção da Inveja, e a nossa igualmente, concentrada de todo na ação de seus lábios, quase que não tem tempo de entregar-se a pensamentos invejosos.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+

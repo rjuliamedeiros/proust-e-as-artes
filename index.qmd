@@ -211,6 +211,23 @@ Giotto
 </div>
 
 <div class="card">
+<a href="pagina-obra/17-inveja.html">
+<img src="imagens/17-inveja.jpg">
+</a>
+
+<div class="title">
+Inveja
+</div>
+
+<div class="artist">
+Giotto
+</div>
+
+
+</div>
+
+
+<div class="card">
 <a href="pagina-obra/33-vista-de-delft.html">
 <img src="imagens/33-vista-de-delft.jpg">
 </a>
