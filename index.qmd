@@ -224,6 +224,32 @@ Giotto
 </div>
 
 <div class="card">
+<a href="pagina-obra/25-espinheiros-da-catedral-de-bourges-portal-oeste-do-juizo-final.html">
+<img src="imagens/25-espinheiros-da-catedral-de-bourges-portal-oeste-do-juizo-final.jpg">
+</a>
+
+<div class="title">
+Espinheiros da Catedral de Bourges
+</div>
+
+
+</div>
+
+
+<div class="card">
+<a href="pagina-obra/26a-igreja-de-saint-loup-de-naud.html">
+<img src="imagens/26a-igreja-de-saint-loup-de-naud.jpg">
+</a>
+
+<div class="title">
+Igreja Saint-Loup
+</div>
+
+
+</div>
+
+
+<div class="card">
 <a href="pagina-obra/27-ilusoes-perdidas.html">
 <img src="imagens/27-ilusoes-perdidas.jpg">
 </a>

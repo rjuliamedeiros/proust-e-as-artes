@@ -1,0 +1,42 @@
+# Espinheiros da Catedral de Bourges
+
+
+
+
+![](../imagens/25-espinheiros-da-catedral-de-bourges-portal-oeste-do-juizo-final.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** século XIII
+
+**Localização:** Portal Oesto do Juízo Final, Catedral de Bourges.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Depois voltava para junto dos pilriteiros como para junto dessas obras-primas que a gente pensa ver melhor depois que deixou um momento de contemplá-las; mas de nada me servia fazer uma pantalha com as mãos para não ter outra coisa ante os olhos, pois o sentimento que me despertavam permanecia obscuro e vago, sem conseguir desprender-se de mim para se unir às flores. [...] No alto dos ramos, como outros tantos vasinhos de roseiras ocultos em papel recortado, com seus finos hastis a irradiarem do altar nos dias festivos, pululavam mil botõezinhos de cor mais pálida que, entreabrindo-se, deixavam ver, como no fundo de uma taça de mármore róseo, vermelhas sanguinas e traíam, mais ainda que as flores, a essência particular, irresistível, do pilriteiro, que, onde quer que brotasse ou florescesse, só o podia fazer em cor-de-rosa. Intercalado na sebe, mas tão diferente dela como uma donzela vestida para uma festa no meio de pessoas em trajes caseiros, pronto para o mês de Maria, de que já parecia fazer parte, assim brilhava a sorrir, em sua fresca toalete rósea, o arbusto católico e delicioso.
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+[Próxima obra →](26a-igreja-de-saint-loup-de-naud.qmd)
