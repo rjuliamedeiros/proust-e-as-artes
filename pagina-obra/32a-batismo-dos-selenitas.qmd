@@ -1,0 +1,40 @@
+# O Batismo dos Selenitas
+
+Autor: Vittore Carpaccio
+
+
+![](../imagens/32a-batismo-dos-selenitas.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1507
+
+**Localização:**  Scuola di San Giorgio degli Schiavoni, Veneza.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Seus olhos azulavam como uma pervinca impossível de colher e que no entanto ela me houvesse dedicado; e o sol, ameaçado por uma nuvem, mas dardejando ainda com todo o vigor sobre a praça e a sacristia, dava uma carnação de gerânio aos tapetes vermelhos estendidos em terra para a solenidade e por onde avançava sorrindo a senhora de Guermantes, e acrescentava à lã dos mesmos um róseo aveludado, essa espécie de meiguice, de grave doçura na pompa e na alegria, que caracterizam certas páginas do Lohengrin, certas pinturas de Carpaccio, e que fazem compreender que Baudelaire possa ter aplicado ao som do clarim o epíteto de delicioso.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+[Próxima obra →](33-vista-de-delft.qmd)

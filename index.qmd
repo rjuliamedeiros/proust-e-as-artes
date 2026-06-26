@@ -226,6 +226,23 @@ Giotto
 
 </div>
 
+<div class="card">
+<a href="pagina-obra/32a-batismo-dos-selenitas.html">
+<img src="imagens/32a-batismo-dos-selenitas.jpg">
+</a>
+
+<div class="title">
+O Batismo dos Selenitas
+</div>
+
+<div class="artist">
+Vittore Carpaccio
+</div>
+
+
+</div>
+
+
 
 <div class="card">
 <a href="pagina-obra/33-vista-de-delft.html">
