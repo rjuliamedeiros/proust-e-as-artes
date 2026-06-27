@@ -224,6 +224,23 @@ Giotto
 </div>
 
 <div class="card">
+<a href="pagina-obra/18-justiça.html">
+<img src="imagens/18-justiça.jpg">
+</a>
+
+<div class="title">
+Justiça
+</div>
+
+<div class="artist">
+Autor: Giotto
+</div>
+
+
+</div>
+
+
+<div class="card">
 <a href="pagina-obra/19-o-sultao-maome-ii.html">
 <img src="imagens/19-o-sultao-maome-ii.jpg">
 </a>

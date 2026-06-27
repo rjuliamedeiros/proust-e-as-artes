@@ -1,0 +1,44 @@
+# Justiça
+
+Autor: Giotto
+
+
+![](../imagens/18-justiça.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1306
+
+**Técnica:** Afresco
+
+**Localização:**  Capela Scrovegni (Arena), Pádua.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Apesar de toda a admiração do sr. Swann por essas figuras de Giotto, por muito tempo não senti nenhum prazer em contemplar em nossa sala de estudo, onde haviam pendurado as cópias que ele me trouxera, aquela Caridade sem caridade, aquela Inveja que mais parecia uma ilustração de livro de medicina para mostrar a compressão da glote ou da campainha por um tumor da língua ou pela introdução do instrumento operatório, uma Justiça cujo rosto comum e mesquinhamente regular era aquele mesmo que, em Combray, caracterizava certas boas burguesas devotas e secas que eu via na igreja e várias das quais já estavam engajadas na milícia de reserva da Injustiça.
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](19-o-sultao-maome-ii.qmd)
