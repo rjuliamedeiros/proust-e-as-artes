@@ -224,6 +224,49 @@ Giotto
 </div>
 
 <div class="card">
+<a href="pagina-obra/22-rosacea-norte-notre-dame-de-chartres.html">
+<img src="imagens/22-rosacea-norte-notre-dame-de-chartres.jpg">
+</a>
+
+<div class="title">
+Vitrais da Catedral de Chartres
+</div>
+
+
+</div>
+
+
+<div class="card">
+<a href="pagina-obra/23-aquarela-rei-carlos-iii-de-navarra.html">
+<img src="imagens/23-aquarela-rei-carlos-iii-de-navarra.jpg">
+</a>
+
+<div class="title">
+Rei Carlos II de Navarra
+</div>
+
+
+</div>
+
+
+<div class="card">
+<a href="pagina-obra/24-o-mausoleu-de-Jean-Jacques-Rousseau.html">
+<img src="imagens/24-o-mausoleu-de-Jean-Jacques-Rousseau.jpg">
+</a>
+
+<div class="title">
+O Mausoléu de Jean-Jacques Rousseau
+</div>
+
+<div class="artist">
+Autor: Hubert Robert
+</div>
+
+
+</div>
+
+
+<div class="card">
 <a href="pagina-obra/25-espinheiros-da-catedral-de-bourges-portal-oeste-do-juizo-final.html">
 <img src="imagens/25-espinheiros-da-catedral-de-bourges-portal-oeste-do-juizo-final.jpg">
 </a>

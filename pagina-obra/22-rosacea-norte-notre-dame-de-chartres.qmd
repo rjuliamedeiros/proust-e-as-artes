@@ -1,0 +1,41 @@
+# Vitrais da Catedral de Chartres
+
+
+
+
+![](../imagens/22-rosacea-norte-notre-dame-de-chartres.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** século XIII 
+
+**Localização:** Vão 121, Vitrais da fachada do transepto norte, Notre-Dame de Chartres.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Veja Roussainville, não passa hoje de uma paróquia de granjeiros, embora antigamente haja tomado grande incremento com a indústria de chapéus de feltro e de pêndulas. Não estou certo da etimologia de Roussainville. De bom grado aceitaria que o nome primitivo fosse Rouville (Radulfi villa) como Châteauroux (Castrum Radulfi), mas eu lhe falarei nisso de outra vez. Pois bem, a igreja tem vitrais soberbos, quase todos modernos, e essa imponente Entrada de Luís Filipe em Combray, que estaria muito melhor aqui mesmo em Combray, e que dizem que não desmerece dos famosos vitrais de Chartres.
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](23-aquarela-rei-carlos-iii-de-navarra.qmd)

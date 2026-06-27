@@ -1,0 +1,44 @@
+# Rei Carlos II de Navarra
+
+
+
+
+![](../imagens/23-aquarela-rei-carlos-iii-de-navarra.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** século XVII 
+
+**Localização:** Collection Gaignières, Paris, Bibliothèque Nationale de France.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+— Estou certa de que, se o senhor cura pedisse a Monsenhor — dizia molemente minha tia, que começava a pensar que ia ficar cansada —, ele não lhe recusaria um vitral novo.
+— Vá esperando, minha senhora! — retrucava o cura. — Pois se foi justamente Monsenhor quem começou o estardalhaço com esse desgraçado vitral, provando que representa Gilberto, o Mau, senhor de Guermantes, descendente direto de Geneviève de Brabant, que era da casa de Guermantes, ao receber a absolvição de santo Hilário!
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](24-o-mausoleu-de-Jean-Jacques-Rousseau.qmd)

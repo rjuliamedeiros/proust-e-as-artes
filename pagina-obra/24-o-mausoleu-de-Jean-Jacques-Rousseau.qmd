@@ -1,0 +1,44 @@
+# O Mausoléu de Jean-Jacques Rousseau
+
+Autor: Hubert Robert
+
+
+![](../imagens/24-o-mausoleu-de-Jean-Jacques-Rousseau.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1794
+
+**Localização:** Musée Carnavalet, Paris.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Às vezes íamos até o viaduto, cujos arcos de pedra começavam na estação e representavam para mim o exílio e o desamparo fora do mundo civilizado, porque todos os anos, ao vir de Paris, recomendavam-nos que estivéssemos alertas ao aproximarmo-nos de Combray e não deixássemos passar a estação, que estivéssemos prontos, pois o trem reencetava a marcha dali a dois minutos e partia, pelo viaduto, para além dos países cristãos, de que Combray marcava para mim o extremo limite. Voltávamos pelo bulevar da estação, onde se achavam as mais bonitas vilas da comuna. Em cada jardim o luar, como Hubert Robert, semeava seus truncados degraus de mármore branco, seus repuxos, suas grades entreabertas. Sua luz destruíra o edifício do telégrafo. Apenas subsistia uma coluna meio quebrada, mas que conservava a beleza de uma ruína imortal.
+
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](25-espinheiros-da-catedral-de-bourges-portal-oeste-do-juizo-final.qmd)
