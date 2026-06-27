@@ -1,0 +1,58 @@
+# O Sultão Maomé II
+
+Autor: Gentile Bellini
+
+
+![](../imagens/19-o-sultao-maome-ii.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1480
+
+**Localização:**  Victoria & Albert Museum, London.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Um domingo, durante minha leitura no jardim, fui interrompido por Swann, que vinha visitar meus pais.
+— Que é que está lendo, pode-se ver? Oh! Bergotte? Mas quem lhe indicou suas obras? — Disse-lhe que fora Bloch.
+— Ah!, sim, esse rapaz que vi uma vez aqui e que é tão parecido com o retrato de Maomé ii, por Bellini. Espantoso! Tem as mesmas sobrancelhas circunflexas, o mesmo nariz recurvo, os mesmos pômulos salientes. Quando tiver uma barbicha, será a mesma pessoa. Em todo caso, tem bom gosto, pois Bergotte é um espírito encantador.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+::: {.long-quote}
+
+Algumas vezes desejava que ela morresse sem sofrimentos nalgum acidente, ela que andava sempre fora, nas ruas, nas estradas, da manhã à noite. E como ela voltava sã e salva, ele admirava-se de que o corpo humano fosse tão ágil e tão forte, que pudesse continuamente manter em xeque e frustrar todos os perigos que o cercam (e que Swann achava inumeráveis depois que o seu secreto desejo os computara) e permitisse assim às criaturas entregarem-se cada dia, e quase que impunemente, à sua obra de mentira, à consecução do prazer. E Swann sentia muito próximo de seu coração aquele Maomé ii cujo retrato por Bellini tanto apreciava e que, sentindo que se apaixonara loucamente por uma de suas mulheres, apunhalou-a, a fim, diz ingenuamente o seu biógrafo, de recuperar a sua liberdade de espírito. Depois se indignava de só pensar em si mesmo, e os sofrimentos que tinha experimentado não lhe pareciam merecer nenhuma compaixão, visto que ele próprio levava em tão pouca conta a vida de Odette.
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+::: {.long-quote}
+
+A partir dessa noite, Swann compreende que sua relação com Odette jamais seria como antes. Ele gostaria de partir de Paris e recolher dados para seu ensaio sobre Vermeer, mas deixar a cidade enquanto Odette ali se encontra o dissuade disso. Apenas em sonho consegue partir. Certa vez, sonha que parte de trem, acenando para um jovem que lhe diz adeus chorando. Despertado pela ansiedade, abençoa as circunstâncias que ainda lhe permitem ver Odette algumas vezes. Algumas vezes, deseja que ela morra “sem sofrimentos nalgum acidente”. Sente-se próximo do Maomé ii pintado por Bellini que apunhalara uma de suas mulheres, depois fica indignado consigo mesmo. Swann consegue neutralizar antecipadamente a dor que sente pelas viagens de Odette durante o verão até o dia em que ela lhe informa indiretamente que partirá com Forcheville para o Egito.
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](20a-reis-e-rainhas-do-portico-real-de-chartres.qmd)

@@ -1,0 +1,41 @@
+# Reis e Rainhas de Chartres
+
+
+
+
+![](../imagens/20a-reis-e-rainhas-do-portico-real-de-chartres.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** século XII
+
+**Localização:**  Baía central do portal real da catedral Notre-Dame de Chartres.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+E observei, como tantas vezes me havia surpreendido nas conversações de Swann com as irmãs de minha avó, que, quando falava de coisas sérias, quando empregava uma expressão que parecia implicar um juízo sobre algum assunto importante, tinha o cuidado de isolá-la, em uma entonação especial, maquinal e irônica, como se a pusesse entre aspas e não quisesse tomá-la por sua conta e risco, dizendo: “Sabem, a hierarquia, como dizem as pessoas ridículas”. Mas então, se era ridículo, por que o dizia ele? Um instante depois acrescentou: “Isto lhe dará uma visão tão nobre como qualquer obra-prima, como, digamos…” (e pôs-se a rir) como “as Rainhas de Chartres!”.
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+[Próxima obra →](21-a-entrada-do-delfim-em-paris.qmd)

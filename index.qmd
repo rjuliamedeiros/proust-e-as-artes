@@ -224,6 +224,53 @@ Giotto
 </div>
 
 <div class="card">
+<a href="pagina-obra/19-o-sultao-maome-ii.html">
+<img src="imagens/19-o-sultao-maome-ii.jpg">
+</a>
+
+<div class="title">
+O Sultão Maomé II
+</div>
+
+<div class="artist">
+Autor: Gentile Bellini
+</div>
+
+
+</div>
+
+
+<div class="card">
+<a href="pagina-obra/20a-reis-e-rainhas-do-portico-real-de-chartres.html">
+<img src="imagens/20a-reis-e-rainhas-do-portico-real-de-chartres.jpg">
+</a>
+
+<div class="title">
+Reis e Rainhas de Chartres
+</div>
+
+
+</div>
+
+
+<div class="card">
+<a href="pagina-obra/21-a-entrada-do-delfim-em-paris.html">
+<img src="imagens/21-a-entrada-do-delfim-em-paris.jpg">
+</a>
+
+<div class="title">
+A entrado do Delfim em Paris
+</div>
+
+<div class="artist">
+Autor: Jean-Auguste Dominique Ingres
+</div>
+
+
+</div>
+
+
+<div class="card">
 <a href="pagina-obra/22-rosacea-norte-notre-dame-de-chartres.html">
 <img src="imagens/22-rosacea-norte-notre-dame-de-chartres.jpg">
 </a>
