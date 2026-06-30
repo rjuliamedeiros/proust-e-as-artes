@@ -428,3 +428,67 @@ Johannes Vermeer
 </div>
 
 </div>
+
+<div class="card">
+<a href="pagina-obra/35-a-mae.html">
+<img src="imagens/35-a-mae.jpg">
+</a>
+
+<div class="title">
+A Mãe
+</div>
+
+<div class="artist">
+Pieter de Hooch
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/55a-sao-tiago-levado-a-execucao.html">
+<img src="imagens/55a-sao-tiago-levado-a-execucao.jpg">
+</a>
+
+<div class="title">
+São Tiago levado à execução
+</div>
+
+<div class="artist">
+Andrea Mantegna
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/71a-o-imperio-da-flora.html">
+<img src="imagens/71a-o-imperio-da-flora.jpg">
+</a>
+
+<div class="title">
+O Império da Flora
+</div>
+
+<div class="artist">
+Nicolas Poussin
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/73-a-criacao-dos-planetas.html">
+<img src="imagens/73-a-criacao-dos-planetas.jpg">
+</a>
+
+<div class="title">
+A Criação dos Planetas
+</div>
+
+<div class="artist">
+Autor: Michelangelo
+</div>
+
+
+</div>

@@ -1,0 +1,55 @@
+# A Coroação da Virgem
+
+Autor: Fra Angelico
+
+
+![](../imagens/35-a-mae.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1434
+
+**Localização:**  Galeria Uffizi, Florença.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Mas a aproximação das férias da Páscoa, que meus pais me prometeram fazer passar uma vez no Norte da Itália, eis que a esses sonhos de tempestade, que inteiramente me haviam enchido a alma, só desejosa de não ver mais que vagas acorrendo de todos os pontos, cada vez mais alto, sobre a costa mais selvagem, perto de igrejas escarpadas e rugosas como rochedos, em cujas torres gritassem os pássaros marinhos, eis que de súbito, apagando-os, tirando-lhes todo encanto, excluindo-os porque lhe eram opostos e só poderiam enfraquecê-los, vinha substituí-los o sonho contrário da mais irisada primavera, não a primavera de Combray, ainda acremente picada de todas as agulhas da geada, mas aquela que já cobria de lírios e anêmonas os campos de Fiesola e ofuscava Florença com fundos de ouro como os de Fra Angelico. Desde então, só me pareciam ter algum valor os raios de luz, os perfumes, as cores; pois a alternância das imagens produzira em mim uma mudança de face do desejo e — tão brusca como as que às vezes há em música — uma completa mudança de tom em minha sensibilidade.
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+A dois passos dali, um rapagão de libré sonhava, imóvel, escultural, inútil, como esse guerreiro puramente decorativo que se vê nos quadros mais tumultuosos de Mantegna, a cismar, apoiado no escudo, enquanto todos se arremessam e trucidam a seu lado; destacado do grupo de seus camaradas, que se apressuravam em torno de Swann, parecia tão decidido a desinteressar-se daquela cena, que vagamente seguia com os seus olhos glaucos e cruéis, como se fosse a matança dos Inocentes ou o martírio de são Tiago. Parecia precisamente pertencer a essa raça extinta — ou que talvez só tenha existido no retábulo de San Zeno e nos afrescos dos Eremitani onde Swann a conhecera e onde ela ainda sonha — oriunda do conúbio de uma estátua antiga com algum modelo paduano do Mestre ou algum saxão de Albert Durer.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+

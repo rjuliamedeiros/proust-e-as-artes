@@ -1,0 +1,55 @@
+# O Império da Flora
+
+Autor: Nicolas Poussin
+
+
+![](../imagens/71a-o-imperio-da-flora.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1631
+
+**Localização:**   Gemäldegalerie Alte Meister, Dresden.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Esse nome de Gilberte passou por mim, evocando tanto mais a existência daquela a quem designava, visto que não a nomeava apenas como a um ausente de quem se fala, mas interpelava-a; também passou por mim em ação, por assim dizer, com uma força acrescida pela curva da sua trajetória e a proximidade de seu objetivo — transportando consigo, eu o sentia, o conhecimento, as noções que tinha daquela a quem era dirigido não eu, mas a amiga que a chamava, tudo o que, enquanto o pronunciava, ela revia, ou pelo menos possuía na memória, da sua intimidade cotidiana, das visitas que trocavam, de todo aquele desconhecido ainda mais inacessível e doloroso para mim por ser tão familiar e manejável para aquela feliz criatura, que com ele me tocava sem que eu lhe pudesse penetrar e que o lançava em pleno ar, num grito —, deixando já flutuar no espaço a emanação deliciosa (que fizera desprender-se, tocando-os com precisão, de alguns pontos invisíveis da vida da filha de Swann), da próxima noite, tal como seria, após o jantar, em casa dela, formando, passageiro celeste no meio das crianças e das criadas, uma nuvenzinha de uma cor preciosa, igual à que, arqueada acima de um belo jardim de Poussin, reflete minuciosamente como uma nuvem de ópera, cheia de cavalos e de carros, alguma aparição da vida dos deuses [...].
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+A dois passos dali, um rapagão de libré sonhava, imóvel, escultural, inútil, como esse guerreiro puramente decorativo que se vê nos quadros mais tumultuosos de Mantegna, a cismar, apoiado no escudo, enquanto todos se arremessam e trucidam a seu lado; destacado do grupo de seus camaradas, que se apressuravam em torno de Swann, parecia tão decidido a desinteressar-se daquela cena, que vagamente seguia com os seus olhos glaucos e cruéis, como se fosse a matança dos Inocentes ou o martírio de são Tiago. Parecia precisamente pertencer a essa raça extinta — ou que talvez só tenha existido no retábulo de San Zeno e nos afrescos dos Eremitani onde Swann a conhecera e onde ela ainda sonha — oriunda do conúbio de uma estátua antiga com algum modelo paduano do Mestre ou algum saxão de Albert Durer.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+

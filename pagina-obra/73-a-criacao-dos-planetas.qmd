@@ -1,0 +1,56 @@
+# A Criação dos Planetas
+
+Autor: Michelangelo
+
+
+![](../imagens/73-a-criacao-dos-planetas.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1511
+
+**Localização:**   Capela Sistina.
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Dirigia-me para a alameda das Acácias. Atravessava maciços a que a luz matinal, impondo-lhes nova disposição, podava as árvores, reunia os diferentes ramos e compunha buquês. Ela atraía habilmente a si duas árvores; com as potentes tesouras do rio e da sombra, tirava a cada qual metade do tronco e dos galhos e, tramando as duas metades restantes, fazia um único pilar de sombra, delimitado pelo sol circundante, ou um único fantasma de claridade a que uma negra rede de sombra cingia o ilusório e trêmulo contorno. Quando um raio de sol dourava os mais altos ramos, pareciam, banhados numa fulgurante umidade, emergir sozinhos da atmosfera líquida e cor de esmeralda onde o maciço inteiro dir-se-ia mergulhado como no mar. Pois as árvores continuavam a viver sua vida própria e, quando não tinham mais folhas, essa vida melhor brilhava no forro de veludo verde que lhes envolvia os troncos ou no esmalte branco das esferas de agárico semeadas no cimo dos álamos, redondas como o sol e a lua na Criação de Michelangelo.
+
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+A dois passos dali, um rapagão de libré sonhava, imóvel, escultural, inútil, como esse guerreiro puramente decorativo que se vê nos quadros mais tumultuosos de Mantegna, a cismar, apoiado no escudo, enquanto todos se arremessam e trucidam a seu lado; destacado do grupo de seus camaradas, que se apressuravam em torno de Swann, parecia tão decidido a desinteressar-se daquela cena, que vagamente seguia com os seus olhos glaucos e cruéis, como se fosse a matança dos Inocentes ou o martírio de são Tiago. Parecia precisamente pertencer a essa raça extinta — ou que talvez só tenha existido no retábulo de San Zeno e nos afrescos dos Eremitani onde Swann a conhecera e onde ela ainda sonha — oriunda do conúbio de uma estátua antiga com algum modelo paduano do Mestre ou algum saxão de Albert Durer.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+
