@@ -1,0 +1,39 @@
+# Cinco estudos do rosto e do busto de uma mulher
+
+Autor: Antoine Watteau
+
+
+![](../imagens/40-cinco-estudos-do-rosto-e-do-busto-de-uma-mulher.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1713
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Certas tardes, no entanto, mas de raro em raro, ia ela à casa de Swann interromper as suas cismas ou aquele ensaio sobre Vermeer a que ele voltara a dedicar-se ultimamente. Vinham dizer-lhe que a sra. de Crécy o esperava na saleta. Swann ia ao seu encontro e, quando abria a porta, pelo rosto róseo de Odette, logo que o avistava — mudando a forma de sua boca, o mirar de seus olhos, o modelado de suas faces —, espalhava-se um sorriso. Ficando a sós, revia Swann aquele sorriso, outro que ela tivera na véspera, outro com que o acolher; em tal ou tal vez, aquele que lhe dera em resposta, no carro, quando, ao arranjar-lhe as catleias, lhe perguntara ele se aquilo não lhe era desagradável; e a vida de Odette, durante o resto do tempo, como ele não conhecia nada a seu respeito, lhe aparecia com o seu fundo neutro e sem cor, semelhante a essas folhas de estudo de Watteau, onde se veem aqui e ali, em todos os lugares, em todos os sentidos, desenhados a três cores sobre o papel pardo, inumeráveis sorrisos.
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+[Próxima obra →](32a-batismo-dos-selenitas.qmd)

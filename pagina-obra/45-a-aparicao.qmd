@@ -1,0 +1,52 @@
+# A Aparição (detalhe)
+
+Autor: Gustave Moreau
+
+
+![](../imagens/45-a-aparicao.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1876
+
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Um dia em que reflexões desse gênero lhe evocavam de novo a época em que lhe haviam falado de Odette como de uma mulher sustentada, e em que uma vez mais se divertia em comparar essa personificação estranha, a mulher sustentada — irisado amálgama de elementos desconhecidos e diabólicos, ornado, como uma aparição de Gustave Moreau, de venenosas flores entrelaçadas a joias preciosas —, com aquela mesma Odette em cuja fisionomia vira passar os mesmos sentimentos de piedade por um infeliz, de revolta contra uma injustiça, de gratidão por um benefício, que outrora vira sua própria mãe e seus amigos experimentarem, aquela Odette cujas palavras tantas vezes versavam sobre as coisas que ele melhor conhecia, as suas coleções, o seu quarto, o seu velho criado, o banqueiro a quem confiara seus títulos, sucedeu que esta última imagem lhe lembrou que precisava retirar dinheiro do banco. Se no mês atual, com efeito, auxiliasse menos liberalmente a Odette do que no mês passado, quando lhe dera cinco mil francos, e não lhe oferecesse o desejado colar de diamantes, não renovaria em sua amiga a admiração que tinha ela por sua generosidade e aquela gratidão que o faziam tão feliz, e até arriscaria a dar-lhe a entender que diminuíra o seu amor, em vista de se tornarem menores as suas manifestações.
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+A dois passos dali, um rapagão de libré sonhava, imóvel, escultural, inútil, como esse guerreiro puramente decorativo que se vê nos quadros mais tumultuosos de Mantegna, a cismar, apoiado no escudo, enquanto todos se arremessam e trucidam a seu lado; destacado do grupo de seus camaradas, que se apressuravam em torno de Swann, parecia tão decidido a desinteressar-se daquela cena, que vagamente seguia com os seus olhos glaucos e cruéis, como se fosse a matança dos Inocentes ou o martírio de são Tiago. Parecia precisamente pertencer a essa raça extinta — ou que talvez só tenha existido no retábulo de San Zeno e nos afrescos dos Eremitani onde Swann a conhecera e onde ela ainda sonha — oriunda do conúbio de uma estátua antiga com algum modelo paduano do Mestre ou algum saxão de Albert Durer.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+

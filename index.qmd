@@ -506,6 +506,98 @@ Jacopo Tintoretto
 </div>
 
 <div class="card">
+<a href="pagina-obra/40-cinco-estudos-do-rosto-e-do-busto-de-uma-mulher.html">
+<img src="imagens/40-cinco-estudos-do-rosto-e-do-busto-de-uma-mulher.jpg">
+</a>
+
+<div class="title">
+Cinco estudos do rosto e do busto de uma mulher
+</div>
+
+<div class="artist">
+Antoine Watteau
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/41-retrato-de-saskia-van-uylenburgh.html">
+<img src="imagens/41-retrato-de-saskia-van-uylenburgh.jpg">
+</a>
+
+<div class="title">
+Retrato de Saskia van Uylenburgh
+</div>
+
+<div class="artist">
+Rembrandt
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/42-a-ronda-noturna.html">
+<img src="imagens/42-a-ronda-noturna.jpg">
+</a>
+
+<div class="title">
+A Ronda Noturna
+</div>
+
+<div class="artist">
+Rembrandt
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/43-regentes-do-asilo-para-idosos.html">
+<img src="imagens/43-regentes-do-asilo-para-idosos.jpg">
+</a>
+
+<div class="title">
+Regentes do asilo para idosos
+</div>
+
+<div class="artist">
+Frans Hals
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/44-nike-de-samotracia.html">
+<img src="imagens/44-nike-de-samotracia.jpg">
+</a>
+
+<div class="title">
+Nike de Samotrácia
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/45-a-aparicao.html">
+<img src="imagens/45-a-aparicao.jpg">
+</a>
+
+<div class="title">
+A Aparição (detalhe)
+</div>
+
+<div class="artist">
+Gustave Moreau
+</div>
+
+
+</div>
+
+<div class="card">
 <a href="pagina-obra/55a-sao-tiago-levado-a-execucao.html">
 <img src="imagens/55a-sao-tiago-levado-a-execucao.jpg">
 </a>

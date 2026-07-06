@@ -1,0 +1,52 @@
+# A Ronda Noturna
+
+Autor: Rembrandt
+
+
+![](../imagens/42-a-ronda-noturna.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1642
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Exceto no instante em que dissera “Mais forte que a Ronda”, blasfêmia que provocara um protesto da sra. Verdurin, que tinha a Ronda como a maior obra-prima do universo juntamente com a Nona e a Samotrácia, e no “feito com caca”, que fizera Forcheville lançar uma olhadela circular pela mesa, para ver se o termo passava e em seguida esboçou um sorriso indulgente e conciliador, todos os convivas, menos Swann, tinham fixado no pintor um olhar fascinado de admiração.
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+— Parece que não é nada — tornou o pintor —, mas é impossível descobrir o truque, como também acontece com a Ronda e os Regentes, e é ainda mais forte do que Rembrandt e Hals. Juro que ali há de tudo.
+
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+[Próxima obra →](32a-batismo-dos-selenitas.qmd)

@@ -1,0 +1,38 @@
+# Retrato de Saskia van Uylenburgh
+
+Autor: Rembrandt
+
+
+![](../imagens/41-retrato-de-saskia-van-uylenburgh.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1633-1634
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Mas às vezes, enchendo um canto daquela vida que Swann via inteiramente vazia, embora o seu espírito lhe dissesse que não o era, simplesmente porque não a podia imaginar, algum amigo que, percebendo que eles se amavam, só se arriscaria a dizer coisas insignificantes a respeito dela, descrevia-lhe o vulto de Odette, que ele avistara naquela mesma manhã, subindo a pé a rua Abbattucci, com uma “visita” guarnecida de skunks, um chapéu à Rembrandt e um ramo de violetas no peito. Este simples croqui abalava Swann porque o fazia aperceber-se de súbito de que Odette possuía uma vida que não era inteiramente dele; queria saber a quem procurava ela agradar com aquela toalete que ele não conhecia; resolvia perguntar-lhe aonde ia naquele momento, como se em toda a vida incolor — quase inexistente, porque lhe era invisível — da sua amante não houvesse senão uma coisa além de todos aqueles sorrisos a ele dirigidos: aquela saída de Odette, com um chapéu à Rembrandt e um ramo de violetas no peito.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+[Próxima obra →](32a-batismo-dos-selenitas.qmd)
