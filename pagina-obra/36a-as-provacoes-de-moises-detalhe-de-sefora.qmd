@@ -1,0 +1,39 @@
+# Séfora (detalhe das Provações de Moisés)
+
+Autor: Sandro Botticelli
+
+
+![](../imagens/36a-as-provacoes-de-moises-detalhe-de-sefora.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1481-82
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Mais importância, talvez, teve a segunda visita. A caminho da sua casa naquele dia, ia ele delineando em mente a imagem de Odette, como sempre fazia antes de um encontro; e a necessidade em que se via, para achar bonito o seu rosto, de limitar às maçãs róseas frescas aquelas faces que tão seguidamente se apresentavam amarelas e cansadas, salpicadas às vezes de manchinhas vermelhas, afligia-o como uma prova de que o ideal é inacessível e a felicidade medíocre. Levava-lhe uma gravura que ela desejava ver. Estava um pouco adoentada; recebeu-o com um penhoar de crepe da china de cor malva e tinha no colo, à guisa de abrigo, um estofo ricamente bordado. De pé ao lado de Swann, deixando pender ao longo das faces os cabelos soltos, dobrando uma perna em leve atitude de dança para poder curvar-se sem fadiga sobre a gravura que estava mirando, de cabeça inclinada, com os seus grandes olhos tão cansados e inexpressivos quando nada a excitava, ela impressionou a Swann por sua presença com aquela figura de Céfora, a filha de Jetro, que se vê num afresco da Capela Sistina.
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+[Próxima obra →](32a-batismo-dos-selenitas.qmd)

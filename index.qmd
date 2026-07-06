@@ -446,6 +446,66 @@ Pieter de Hooch
 </div>
 
 <div class="card">
+<a href="pagina-obra/36a-as-provacoes-de-moises-detalhe-de-sefora.html">
+<img src="imagens/36a-as-provacoes-de-moises-detalhe-de-sefora.jpg">
+</a>
+
+<div class="title">
+Séfora (detalhe das Provações de Moisés)
+</div>
+
+<div class="artist">
+Sandro Botticelli
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/37b-retrato-do-doge-leonardo-loredan.html">
+<img src="imagens/37b-retrato-do-doge-leonardo-loredan.jpg">
+</a>
+
+<div class="title">
+Busto do Doge Leonardo Loredan
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/38-retrato-de-um-velho-com-o-neto.html">
+<img src="imagens/38-retrato-de-um-velho-com-o-neto.jpg">
+</a>
+
+<div class="title">
+Retrato de um velho com o neto
+</div>
+
+<div class="artist">
+Domenico Ghirlandaio
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/39-autorretrato.html">
+<img src="imagens/39-autorretrato.jpg">
+</a>
+
+<div class="title">
+Autorretrato
+</div>
+
+<div class="artist">
+Jacopo Tintoretto
+</div>
+
+
+</div>
+
+<div class="card">
 <a href="pagina-obra/55a-sao-tiago-levado-a-execucao.html">
 <img src="imagens/55a-sao-tiago-levado-a-execucao.jpg">
 </a>
