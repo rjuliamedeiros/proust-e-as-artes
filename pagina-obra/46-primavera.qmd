@@ -1,0 +1,41 @@
+# Primavera
+
+Autor: Sandro Botticelli
+
+
+![](../imagens/46-primavera.jpg){width=600}
+
+::: {.obra-info}
+
+**Data:** 1482
+
+
+**Recherche:** *No Caminho de Swann*, "Combray"
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Bem sabia Swann que Odette não se achava tão enamorada para que sentisse tamanho pesar por tal coisa, mas como ela era boa e gostava de lhe ser agradável e muitas vezes se entristecia quando lhe causava uma contrariedade, achou muito natural que agora também se entristecesse por havê-lo privado daquele prazer de passarem uma hora juntos, prazer que era tão grande, não para ela, mas para ele. Era no entanto uma coisa tão sem importância que Swann acabou por espantar-se com o ar doloroso de Odette. Lembrava-lhe assim, mais do que habitualmente, as mulheres do pintor da Primavera. Tinha em tal momento aquela mesma face abatida e dolorosa, como que sucumbindo ao peso de uma dor muito intensa para elas, simplesmente porque deixam o Menino Jesus brincar com uma romã ou veem Moisés deitar água numa tina.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+
+## Comentário
+
+
+## Obras relacionadas
+
+- Caridade, de Giotto
+- Vista de Delft, de Vermeer
+
+---
+
+[← Página inicial](../index.qmd)
+
+

@@ -598,6 +598,83 @@ Gustave Moreau
 </div>
 
 <div class="card">
+<a href="pagina-obra/46-primavera.html">
+<img src="imagens/46-primavera.jpg">
+</a>
+
+<div class="title">
+Primavera
+</div>
+
+<div class="artist">
+Sandro Botticelli
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/47a-madonna-da-romã.html">
+<img src="imagens/47a-madonna-da-romã.jpg">
+</a>
+
+<div class="title">
+A Madonna da Romã
+</div>
+
+<div class="artist">
+Sandro Botticelli
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/51b-timpano-do-monasterio-real-de-brou.html">
+<img src="imagens/51b-timpano-do-monasterio-real-de-brou.jpg">
+</a>
+
+<div class="title">
+Tímpano do Monastério Real de Brou
+</div>
+
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/52a-o-nascimento-de-venus.html">
+<img src="imagens/52a-o-nascimento-de-venus.jpg">
+</a>
+
+<div class="title">
+O Nascimento de Vênus
+</div>
+
+<div class="artist">
+Sandro Botticelli
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/52b-venus-e-as-tres-gracas.html">
+<img src="imagens/52b-venus-e-as-tres-gracas.jpg">
+</a>
+
+<div class="title">
+Vênus e as três Graças
+</div>
+
+<div class="artist">
+Sandro Botticelli
+</div>
+
+
+</div>
+
+<div class="card">
 <a href="pagina-obra/55a-sao-tiago-levado-a-execucao.html">
 <img src="imagens/55a-sao-tiago-levado-a-execucao.jpg">
 </a>
