@@ -675,6 +675,23 @@ Sandro Botticelli
 </div>
 
 <div class="card">
+<a href="pagina-obra/53-martirio-de-santa-agueda.html">
+<img src="imagens/53-martirio-de-santa-agueda.jpg">
+</a>
+
+<div class="title">
+Martírio de Santa Águeda
+</div>
+
+<div class="artist">
+Sebastiano del Piombo
+</div>
+
+
+</div>
+
+
+<div class="card">
 <a href="pagina-obra/55a-sao-tiago-levado-a-execucao.html">
 <img src="imagens/55a-sao-tiago-levado-a-execucao.jpg">
 </a>
@@ -685,6 +702,60 @@ São Tiago levado à execução
 
 <div class="artist">
 Andrea Mantegna
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/57a-sao-jorge-detalhe-do-retabulo-de-paumgartner.html">
+<img src="imagens/57a-sao-jorge-detalhe-do-retabulo-de-paumgartner.jpg">
+</a>
+
+<div class="title">
+Rétabulo de São Zeno (detalhe do painel direito)
+</div>
+
+<div class="artist">
+Albrecht Dürer
+</div>
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/58-escadaria-dos-gigantes.html">
+<img src="imagens/58-escadaria-dos-gigantes.jpg">
+</a>
+
+<div class="title">
+Escadaria dos Gigantes no Palácio Ducal de Veneza
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/59-o-matador-pedro-romero.html">
+<img src="imagens/59-o-matador-pedro-romero.jpg">
+</a>
+
+<div class="title">
+O matador Pedro Romero
+</div>
+
+<div class="artist">
+Francisco de Goya
+</div>
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/60-tapecaria-aubusson-paisagem-fantastica.html">
+<img src="imagens/60-tapecaria-aubusson-paisagem-fantastica.jpg">
+</a>
+
+<div class="title">
+Tapeçaria Aubusson - Paisagem Fantástica
 </div>
 
 
