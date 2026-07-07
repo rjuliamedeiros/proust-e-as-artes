@@ -762,6 +762,67 @@ Tapeçaria Aubusson - Paisagem Fantástica
 </div>
 
 <div class="card">
+<a href="pagina-obra/61-injustica.html">
+<img src="imagens/61-injustica.jpg">
+</a>
+
+<div class="title">
+Injustiça
+</div>
+
+<div class="artist">
+Giotto
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/62-diana-e-suas-companheiras.html">
+<img src="imagens/62-diana-e-suas-companheiras.jpg">
+</a>
+
+<div class="title">
+Diana e suas companheiras
+</div>
+
+<div class="artist">
+Jan Vermeer
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/63a-quadrifolio-bestas-em-ninive-catedral-de-amiens.html">
+<img src="imagens/63a-quadrifolio-bestas-em-ninive-catedral-de-amiens.jpg">
+</a>
+
+<div class="title">
+Quadrifólio “Bestas em Nínive” abaixo da estátua de Zefanias na fachada oeste da Catedral de Amiens
+</div>
+
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/64-jovem-mulher-em-vestido-de-noite-com-buque-de-hortensias.html">
+<img src="imagens/64-jovem-mulher-em-vestido-de-noite-com-buque-de-hortensias.jpg">
+</a>
+
+<div class="title">
+Jovem mulher em vestido de noite com buquê de hortênsias
+</div>
+
+<div class="artist">
+Jules Machard
+</div>
+
+
+</div>
+
+<div class="card">
 <a href="pagina-obra/66-coroacao-da-virgem.html">
 <img src="imagens/66-coroacao-da-virgem.jpg">
 </a>
