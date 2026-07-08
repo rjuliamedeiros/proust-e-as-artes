@@ -223,6 +223,8 @@ Inveja
 Giotto
 </div>
 
+</div>
+
 <div class="card">
 <a href="pagina-obra/18-justiça.html">
 <img src="imagens/18-justiça.jpg">
@@ -391,9 +393,6 @@ Autor: Gentile Bellini
 </div>
 
 
-
-</div>
-
 <div class="card">
 <a href="pagina-obra/32a-batismo-dos-selenitas.html">
 <img src="imagens/32a-batismo-dos-selenitas.jpg">
@@ -423,8 +422,6 @@ Vista de Delft
 
 <div class="artist">
 Johannes Vermeer
-</div>
-
 </div>
 
 </div>
