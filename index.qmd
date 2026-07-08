@@ -822,6 +822,8 @@ Jules Machard
 
 </div>
 
+
+
 <div class="card">
 <a href="pagina-obra/66-coroacao-da-virgem.html">
 <img src="imagens/66-coroacao-da-virgem.jpg">
@@ -833,6 +835,66 @@ A Coroação da Virgem
 
 <div class="artist">
 Fra Angelico
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/67-catedral-santa-maria-das-flores.html">
+<img src="imagens/67-catedral-santa-maria-das-flores.jpg">
+</a>
+
+<div class="title">
+Catedral Santa Maria das Flores (Duomo di Firenze)
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/68a-o-sacrificio-de-joaquim.html">
+<img src="imagens/68a-o-sacrificio-de-joaquim.jpg">
+</a>
+
+<div class="title">
+O Sacrifício de Joaquim
+</div>
+
+<div class="artist">
+Giotto
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/69a-madonna-aldobrandini.html">
+<img src="imagens/69a-madonna-aldobrandini.jpg">
+</a>
+
+<div class="title">
+Madonna Aldobrandini
+</div>
+
+<div class="artist">
+Ticiano
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/70-la-nuda.html">
+<img src="imagens/70-la-nuda.jpg">
+</a>
+
+<div class="title">
+La Nuda
+</div>
+
+<div class="artist">
+Giorgione
 </div>
 
 
@@ -855,6 +917,22 @@ Nicolas Poussin
 </div>
 
 <div class="card">
+<a href="pagina-obra/72-passeio-no-bosque.html">
+<img src="imagens/72-passeio-no-bosque.jpg">
+</a>
+
+<div class="title">
+Passeio no Bosque
+</div>
+
+<div class="artist">
+Constantin Guys
+</div>
+
+
+</div>
+
+<div class="card">
 <a href="pagina-obra/73-a-criacao-dos-planetas.html">
 <img src="imagens/73-a-criacao-dos-planetas.jpg">
 </a>
@@ -865,6 +943,22 @@ A Criação dos Planetas
 
 <div class="artist">
 Autor: Michelangelo
+</div>
+
+
+</div>
+
+<div class="card">
+<a href="pagina-obra/74-sao-jorge.html">
+<img src="imagens/74-sao-jorge.jpg">
+</a>
+
+<div class="title">
+São Jorge
+</div>
+
+<div class="artist">
+Autor: Andrea Mantegna
 </div>
 
 
