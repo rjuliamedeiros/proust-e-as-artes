@@ -939,7 +939,7 @@ A Criação dos Planetas
 </div>
 
 <div class="artist">
-Autor: Michelangelo
+Michelangelo
 </div>
 
 
@@ -955,7 +955,7 @@ São Jorge
 </div>
 
 <div class="artist">
-Autor: Andrea Mantegna
+Andrea Mantegna
 </div>
 
 

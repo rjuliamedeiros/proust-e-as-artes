@@ -6,8 +6,26 @@ Autor: Johannes Vermeer
 
 ## Passagem de Proust
 
-(coloque aqui a passagem)
+::: {.long-quote}
+
+“E você”, dissera-lhe Odette “não irá um dia lá em casa tomar chá comigo?”. Ele alegara trabalhos em andamento, um ensaio — na verdade abandonado há anos — sobre Vermeer de Delft.
+
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
+
+## Passagem de Proust
+
+::: {.long-quote}
+
+Bem sabia que ela não era inteligente. Ao dizer a Swann que gostaria de que lhe falasse dos grandes poetas, Odette imaginara que ia logo conhecer coplas heroicas e romanescas no gênero das do visconde de Borelli, ou coisa mais emocionante ainda. Quanto a Vermeer de Delft, indagou se ele não sofrera por alguma mulher, se fora uma mulher que o inspirara, e, como Swann lhe confessasse que nada se sabia a respeito, Odette perdeu todo interesse pelo referido pintor.
+
+
+— Marcel Proust, *No Caminho de Swann*, tradução de Mario Quintana.
+
+:::
 
 ## Comentário
 
-Suas observações.
